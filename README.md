@@ -52,9 +52,9 @@ int main() {
 
 ## **Project Structure**
 
-BlockAllocator.h: Class interface and Doxygen documentation.
-BlockAllocator.cpp: Implementation of allocation logic.
-main.cpp: Unit tests and demonstration.
+- BlockAllocator.h: Class interface and Doxygen documentation.
+- BlockAllocator.cpp: Implementation of allocation logic.
+- main.cpp: Unit tests and demonstration.
 
 ## **Build & Run**
 
